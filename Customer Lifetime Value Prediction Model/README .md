@@ -66,7 +66,4 @@ Final results exported as `final_ltv_predictions.xlsx`.
 
 ---
 
-## 📂 License
 
-This project is licensed under the **Mozilla Public License 2.0 (MPL-2.0)**.  
-You can read the full license [here](https://www.mozilla.org/en-US/MPL/2.0/).
