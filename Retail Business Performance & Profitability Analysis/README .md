@@ -79,8 +79,6 @@ These insights drive strategic suggestions to improve retail operations.
 
 ## 📦 Deliverables
 
-- **Interactive Dashboard**:  
-  [🔗 Retail Business Performance Dashboard on Tableau Public](https://public.tableau.com/app/profile/bhavishya.priyadarshini.v/viz/Retail_Business_Performance_Project/RetailBusinessPerformanceDashboard?publish=yes)
 
 - **SQL Analysis**:
   - Queries included in the notebook
@@ -120,4 +118,4 @@ Contributions that improve the analysis, visuals, or documentation are welcome!
 
 ---
 
-**Author**: Bhavishya Priyadarshini V  
+ 
